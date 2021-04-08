@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jogiprasadpakki.unity.androidnativecore">
+
+
+
+
+    <application>
+        <activity android:name="com.jogiprasadpakki.unity.androidnativecore.AndroidNativeCore"/>
+    </application>
+</manifest>
